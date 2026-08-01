@@ -1,6 +1,6 @@
 <div align="center">
 
-# 💹 RD Calculator
+# 🧮 RD Calculator
 
 ### Use RD Calculator free on ToolAdda — quick, accurate, and browser-based.
 
